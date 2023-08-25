@@ -29,6 +29,6 @@ This project relies on R packages including `tidyverse`, `ggplot2`, and `dplyr`.
 
 ## Contact
 
-For questions or feedback, reach out to: luisu425@gmail.com
+For questions or feedback, reach out to: luisu425@gmail.com or on my LinkedIn (https://www.linkedin.com/in/luisuribezam/).
 
 Happy analyzing and exploring the world of bike-sharing with Cyclistic! 🚲📊
